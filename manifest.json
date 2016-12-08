@@ -3,7 +3,7 @@
 
 	"name": "Calmadoro",
 	"description": "A timer for workchill balance",
-	"version": "2.7",
+	"version": "2.8",
 
 	"browser_action": {
 		"default_icon": "icon.png",
