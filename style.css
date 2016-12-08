@@ -72,7 +72,7 @@
   height: 160px;
   width: 40%;
   margin: 0 auto;
-  margin-top: 40px;
+  margin-top: 28px;
   border-radius: 8px;
   /*background-color: #b1b9bb;*/
   /*opacity: .4;*/
@@ -151,30 +151,39 @@
   margin-left: 5px;
 }
 
+/*#work{
+   border: 2px solid grey;
+  font-weight: bold;
+}*/
+
 .modebtn {
-  -webkit-box-shadow: 0px 5px 8px #666666;
-  -moz-box-shadow: 0px 5px 8px #666666;
-  box-shadow: 0px 5px 8px #666666;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 26px;
-  padding: 10px;
-  text-decoration: none;
-  width:120px;
+    color: grey;
+    width: 10%;
+    height: 45px;
+    font-size: 1.1em;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    background-color:transparent;
+    letter-spacing: .08em;
+    border-radius: 8px;
+    outline: none;
+    border: 1px solid grey;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-#workBtn {
-  color: red;
-  background-color: white;
+
+.modebtn:hover {
+  border: 2px solid grey;
 }
 
-#workBtn:enabled {
-  color: blue;
-  background-color: grey;
+.modebtn:active {
+  border: 3px solid grey;
 }
 
-#restBtn {
-  color: black;
-  background-color: white;
+.modebtn:focus {
+  border: 2px solid grey;
+  font-weight: bold;
 }
+
 
