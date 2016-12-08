@@ -1,0 +1,1 @@
+This is a starter folder for creating chrome extensions with 1 popup page.

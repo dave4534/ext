@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+
+	"name": "Calmadoro",
+	"description": "A timer for workchill balance",
+	"version": "2.7",
+
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "Calmadoro",
+		"default_popup": "popup.html"
+	}
+}
